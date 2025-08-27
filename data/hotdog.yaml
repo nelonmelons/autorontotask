@@ -1,0 +1,7 @@
+# Dataset config for Ultralytics YOLOv8 (single class: hotdog)
+# Paths are relative to the workspace root. Quotes handle spaces on Windows.
+train: "../Hot Dog Detection YOLO/train/images"
+val: "../Hot Dog Detection YOLO/valid/images"
+
+nc: 1
+names: ["hotdog"]

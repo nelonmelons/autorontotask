@@ -1,0 +1,5 @@
+Hot Dog Detection COCO
+Hot Dog Detection YOLO
+.vscode
+
+runs/hotdog/yolov8m-preds

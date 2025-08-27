@@ -3,3 +3,5 @@ Hot Dog Detection YOLO
 .vscode
 
 runs/hotdog/yolov8m-preds
+
+.venv
